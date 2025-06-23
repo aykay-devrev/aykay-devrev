@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aykay-devrev
 - 👀 I’m interested in systems research, large scale distributed systems
 - 🌱 I’m currently learning golang and docker
-- 📫 How to reach me ... i-advaith.krishna@devrev.ai
+- 📫 How to reach me ... advaith.krishna@devrev.ai
 - ⚡ Fun fact: I am a polyglot(Natural languages :)
 
 <!---
